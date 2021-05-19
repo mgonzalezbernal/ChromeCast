@@ -18110,42 +18110,6 @@
     ]
   },
   {
-    "id": 452,
-    "title": "Dentek Oral Care Kit",
-    "slug": "dentek_professional_Oral_care_kit1",
-    "unit": " 1 pc(s)",
-    "price": 10,
-    "salePrice": 0,
-    "discountInPercent": 0,
-    "description": "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
-    "type": "makeup",
-    "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg",
-    "gallery": [
-      {
-        "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg"
-      },
-
-      {
-        "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg"
-      },
-
-      {
-        "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg"
-      },
-
-      {
-        "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg"
-      }
-    ],
-    "categories": [
-      {
-        "id": 108,
-        "title": "Oral Care",
-        "slug": "Oral_care"
-      }
-    ]
-  },
-  {
     "id": 453,
     "title": "Gum Oral Care Cleaning Kit",
     "slug": "gum_Oral_care_cleaning_kit",
