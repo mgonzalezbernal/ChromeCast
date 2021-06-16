@@ -1992,7 +1992,6 @@
       }
     ]
   },
-
   {
     "id": 10020,
     "title": "Mgaxyff Cloth Hanger Tree",
@@ -2023,6 +2022,399 @@
         "id": 10009,
         "title": "Tools",
         "slug": "tools"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Celery Stick",
+    "slug": "celerystick",
+    "unit": "1 lb",
+    "price": 0.7,
+    "salePrice": 0,
+    "discountInPercent": 0,
+    "description": "celery stick - celery stalks cut into small sticks. crudites - raw vegetables cut into bite-sized strips and served with a dip. celery - stalks eaten raw or cooked or used as seasoning.",
+    "type": "grocery",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/CelerySticks_ulljfz.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/CelerySticks_ulljfz.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/CelerySticks_ulljfz.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/CelerySticks_ulljfz.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/CelerySticks_ulljfz.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "title": "Fruits & Vegetables",
+        "slug": "fruits-and-vegetables"
+      },
+      {
+        "id": 3,
+        "title": "Vegetables",
+        "slug": "vegetables"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Advent Laptop Bag",
+    "slug": "advent-laptop-bag",
+    "unit": "1 pc(s)",
+    "price": 200,
+    "salePrice": 160,
+    "discountInPercent": 20,
+    "description": "Material: Laptop Shoulder Bag is made of quality canvas, protecting your laptop from dust, scratches and water",
+    "type": "bags",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Advent_laptop_bags.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Advent_laptop_bags.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Advent_laptop_bags.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Advent_laptop_bags.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Advent_laptop_bags.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 18,
+        "title": "Laptop Bags",
+        "slug": "laptop-bags"
+      }
+    ]
+  },
+
+  {
+    "id": 36,
+    "title": "Alex Maqueeen Shoulder Bag",
+    "slug": "alex-maqueen-shoulder-bag",
+    "unit": "1 pc(s)",
+    "price": 250,
+    "salePrice": 200,
+    "discountInPercent": 20,
+    "description": "Luxury British fashion house Alexander McQueen is famed for its exquisitely designed handbags and accessories, as showcased through this stunning black Box bag. Expertly crafted in Italy from supple calf leather, the bag is an ideal accessory choice which suits a variety of styles and occasions.",
+    "type": "bags",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Alex_maquine_shoulder.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Alex_maquine_shoulder.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Alex_maquine_shoulder.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Alex_maquine_shoulder.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Alex_maquine_shoulder.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 16,
+        "title": "Shoulder Bags",
+        "slug": "shoulder-bags"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Lapel Zips Plain Long Sleeve Jackets",
+    "slug": "lapel-zips-plain-long-sleeve-jackets",
+    "unit": "1 pc(s)",
+    "price": 180,
+    "salePrice": 0,
+    "discountInPercent": 0,
+    "description": "Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Lapel_Zips.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Lapel_Zips.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Lapel_Zips.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Lapel_Zips.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/Lapel_Zips.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 23,
+        "title": "Outer Wear",
+        "slug": "outer-wear"
+      },
+      {
+        "id": 24,
+        "title": "Jacket",
+        "slug": "jacket"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Stretch Cotton Utility Jacket With Adjustable Waist",
+    "slug": "stretch=cotton-utility-jacket-with-adjustable-wiast",
+    "unit": "1 pc(s)",
+    "price": 95,
+    "salePrice": 76,
+    "discountInPercent": 20,
+    "description": "Blue and navy cotton Decima zipped cardigan from ANGLOZINE featuring a classic collar, a front zip fastening, a chest pocket, long sleeves, contrasting panels and a slim fit. This item is unisex.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/STRETCH_COTTON.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/STRETCH_COTTON.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/STRETCH_COTTON.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/STRETCH_COTTON.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/STRETCH_COTTON.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 23,
+        "title": "Outer Wear",
+        "slug": "outer-wear"
+      },
+      {
+        "id": 24,
+        "title": "Jacket",
+        "slug": "jacket"
+      }
+    ]
+  },
+
+  {
+    "id": 76,
+    "title": "Levi'S Western Denim Shirt",
+    "slug": "levis-western-denim-shirt",
+    "unit": "1 pc(s)",
+    "price": 55,
+    "salePrice": 44,
+    "discountInPercent": 20,
+    "description": "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/LEVI'S_WESTERN.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/LEVI'S_WESTERN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/LEVI'S_WESTERN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/LEVI'S_WESTERN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/LEVI'S_WESTERN.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 34,
+        "title": "Shirts",
+        "slug": "shirts"
+      }
+    ]
+  },
+
+  {
+    "id": 77,
+    "title": "Ivory Check Longline Tunic Shirt",
+    "slug": "ivory-check-longline-tunic-shirt",
+    "unit": "1 pc(s)",
+    "price": 40,
+    "salePrice": 0,
+    "discountInPercent": 0,
+    "description": "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/IVORY_CHECK.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/IVORY_CHECK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/IVORY_CHECK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/IVORY_CHECK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/IVORY_CHECK.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 34,
+        "title": "Shirts",
+        "slug": "shirts"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Vero Moda Coco Wide Pant",
+    "slug": "vero-moda-coco-wide-pant",
+    "unit": "1 pc(s)",
+    "price": 45,
+    "salePrice": 36,
+    "discountInPercent": 20,
+    "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/VERO_MODA.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/VERO_MODA.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/VERO_MODA.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/VERO_MODA.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/VERO_MODA.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "title": "Pants",
+        "slug": "pants"
+      },
+      {
+        "id": 30,
+        "title": "Chinos",
+        "slug": "chinos"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Skechers Kallen Fleece Jog Pant",
+    "slug": "skechers-kallen-fleece-jog-pant",
+    "unit": "1 pc(s)",
+    "price": 30,
+    "salePrice": 21,
+    "discountInPercent": 30,
+    "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/SKECHERS_KALLEN.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/SKECHERS_KALLEN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/SKECHERS_KALLEN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/SKECHERS_KALLEN.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/SKECHERS_KALLEN.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "title": "Pants",
+        "slug": "pants"
+      },
+      {
+        "id": 31,
+        "title": "Sports",
+        "slug": "sports"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Reebok French Terry Jog Pants",
+    "slug": "reebok-french-terry-jog-pants",
+    "unit": "1 pc(s)",
+    "price": 35,
+    "salePrice": 28,
+    "discountInPercent": 20,
+    "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+    "type": "clothing",
+    "image": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/REEBOK.jpeg",
+    "gallery": [
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/REEBOK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/REEBOK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/REEBOK.jpeg"
+      },
+
+      {
+        "url": "https://s3-sa-east-1.amazonaws.com/vivipiria.uy/images/REEBOK.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "title": "Pants",
+        "slug": "pants"
+      },
+      {
+        "id": 31,
+        "title": "Sports",
+        "slug": "sports"
       }
     ]
   }
